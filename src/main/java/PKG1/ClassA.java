@@ -8,7 +8,8 @@ public class ClassA {
     int a = 10 ;
     
     System.out.println("Pramod");
-
+      System.out.println();
+      int a = 10 ;
     
     
     }
