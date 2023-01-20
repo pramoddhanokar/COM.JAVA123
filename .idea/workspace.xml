@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e788bcaf-4ded-4b34-97f5-00a502290964" name="Changes" comment="[Pramod]:- 1 St Commit...">
+    <list default="true" id="e788bcaf-4ded-4b34-97f5-00a502290964" name="Changes" comment="[Pramod]:-  2 St Commit...">
       <change beforePath="$PROJECT_DIR$/src/main/java/PKG1/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PKG1/ClassA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +87,19 @@
       <option name="project" value="LOCAL" />
       <updated>1674216654921</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Pramod]:-  2 St Commit...">
+      <created>1674216805762</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674216805762</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Pramod]:- 1 St Commit..." />
-    <option name="LAST_COMMIT_MESSAGE" value="[Pramod]:- 1 St Commit..." />
+    <MESSAGE value="[Pramod]:-  2 St Commit..." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Pramod]:-  2 St Commit..." />
   </component>
 </project>
