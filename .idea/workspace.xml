@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e788bcaf-4ded-4b34-97f5-00a502290964" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PKG1/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="e788bcaf-4ded-4b34-97f5-00a502290964" name="Changes" comment="[Pramod]:- 1 St Commit...">
+      <change beforePath="$PROJECT_DIR$/src/main/java/PKG1/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PKG1/ClassA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +53,25 @@
       <option name="presentableId" value="Default" />
       <updated>1674214397303</updated>
     </task>
+    <task id="LOCAL-00001" summary="[Pramod]:- 1 St Commit...">
+      <created>1674216370161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674216370161</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Pramod]:- 1 St Commit...">
+      <created>1674216534861</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674216534861</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Pramod]:- 1 St Commit..." />
+    <option name="LAST_COMMIT_MESSAGE" value="[Pramod]:- 1 St Commit..." />
   </component>
 </project>
