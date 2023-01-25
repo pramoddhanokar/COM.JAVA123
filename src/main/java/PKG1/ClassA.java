@@ -9,7 +9,10 @@ public class ClassA {
     
     System.out.println("Pramod");
       System.out.println();
-      int a = 10 ;
+      
+      
+      int q = 1000 ;
+     
     
     
     }
